@@ -1,11 +1,13 @@
 # Game-notes-tracker-
 A basic intelligent system that organizes and retrieves game-related information to improve continuity in gameplay.
 ----------Project Title--------------
+
 Game Notes Tracker
 
 Name: Eshita Parihar
 
 ----------Key Contents--------------
+
 Introduction
 
 Features
@@ -19,6 +21,7 @@ Workflow
 PseudoCode
 
 ----------Introduction--------------
+
 This project is a Game Notes Tracker designed to help players store and manage important information related to games. It allows users to save details such as controls, objectives, and progress so that they can easily continue playing after taking a break.
 
 In many cases, players forget key information when they return to a game after some time. This leads to confusion and interrupts the gaming experience. This project provides a simple solution by organizing and storing game-related notes in a structured way.
@@ -26,6 +29,7 @@ In many cases, players forget key information when they return to a game after s
 The system is built using Python and focuses on ease of use. It helps reduce frustration and allows users to resume gameplay without needing to restart or spend time figuring things out again.
 
 ----------Features--------------
+
 Add Game Notes
 Allows users to enter a game name and store details like controls, objectives, and progress.
 
@@ -42,6 +46,7 @@ Simple Interface
 Provides a menu-driven command-line interface that is easy to use.
 
 ----------Installation--------------
+
 Follow the steps below to set up the Game Notes Tracker:
 
 Install Python
@@ -62,6 +67,7 @@ python main.py
 The program will start and create the data file if needed.
 
 ----------Usage--------------
+
 To use the Game Notes Tracker:
 
 Run the Program
@@ -93,6 +99,7 @@ c) Exit
 Closes the program safely
 
 ----------Workflow--------------
+
 START
 Load existing data from JSON file
 
@@ -112,6 +119,7 @@ If Exit
 → End program
 
 ----------PseudoCode--------------
+
 START
 
 LOAD data from JSON file
